@@ -1,5 +1,4 @@
-.. image:: https://img.shields.io/travis/michelepagot/open-ec.svg
-        :target: https://travis-ci.org/michelepagot/open-ec
+[![Build Status](https://travis-ci.org/michelepagot/open-ec.svg?branch=master)](https://travis-ci.org/michelepagot/open-ec)
 
 Description
 ======
