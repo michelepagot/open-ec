@@ -37,7 +37,6 @@ export ARM_GCC=`pwd`/gcc-arm-none-eabi-8-2018-q4-major/bin
 export PATH=$PATH:$ARM_GCC
 ```
 
-
 Build
 --------------
 
