@@ -1,3 +1,6 @@
+.. image:: https://img.shields.io/travis/michelepagot/open-ec.svg
+   :target: https://travis-ci.org/michelepagot/open-ec
+
 Description
 ======
 
